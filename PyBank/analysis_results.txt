@@ -1,0 +1,10 @@
+
+Financial Analysis
+_________________________________________
+
+Total Months: 86
+Total Gain/Loss: $38,382,578.00
+Average Change: $-2,315.12
+Maximum Gain occured Feb-2012 totalling $1,926,159.00
+Maximum Loss occured Sep-2013 totalling $-2,196,167.00
+
